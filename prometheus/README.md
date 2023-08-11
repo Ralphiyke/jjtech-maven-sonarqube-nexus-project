@@ -11,7 +11,7 @@
 - ssh into app server 
 - Instal git and clone the github repo with source code
 - install node exporter <sh install-node-exporter>
-
+ 
 - navigate to prometheus server\
 - cd /etc/prometheus/
 - sudo nano prometheus.yml
