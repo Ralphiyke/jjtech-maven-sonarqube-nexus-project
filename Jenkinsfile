@@ -22,7 +22,7 @@ pipeline {
         stage('git checkout') {
             steps {
                 // Get some code from a GitHub repository
-                 git branch: 'main', url: 'https://github.com/anselmenumbisia/jjtech-maven-sonarqube-nexus-prometheus-project.git'
+                 git branch: 'main', url: 'https://github.com/Ralphiyke/jjtech-maven-sonarqube-nexus-project.git'
             }
 
             }
